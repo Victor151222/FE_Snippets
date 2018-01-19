@@ -1,6 +1,6 @@
 # 数组
 
-#### ES7 中判断一个数组是否包含另一个数组
+#### ES7中判断一个数组是否包含另一个数组
 
 [:back:](https://github.com/Victor151222/FE_Snippets/blob/master/README.md#数组)
 

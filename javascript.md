@@ -1,6 +1,8 @@
 # 数组
 
-#### ES7 中判断一个数组是否包含另一个数组    [:back:](https://github.com/Victor151222/FE_Snippets/blob/master/README.md#数组)
+#### ES7 中判断一个数组是否包含另一个数组
+
+[:back:](https://github.com/Victor151222/FE_Snippets/blob/master/README.md#数组)
 
 ```js
 function isContain(arr1,arr2){  
@@ -15,7 +17,8 @@ function isContain(arr1,arr2){
 
 # cookie
 
-#### 原生JavaScript的cookie操作    [🔙](https://github.com/Victor151222/FE_Snippets/blob/master/README.md#cookie)
+#### 原生JavaScript的cookie操作
+[🔙](https://github.com/Victor151222/FE_Snippets/blob/master/README.md#cookie)
 
 > 来自《JavaScript高级程序设计》第三版，Page 631。
 
@@ -71,7 +74,8 @@ var CookieUtil = {
 };
 ```
 
-#### jquery-cookie    [🔙](https://github.com/Victor151222/FE_Snippets/blob/master/README.md#cookie)
+#### jquery-cookie方式
+[🔙](https://github.com/Victor151222/FE_Snippets/blob/master/README.md#cookie)
 
 > 来自:  https://github.com/carhartl/jquery-cookie
 

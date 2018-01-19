@@ -17,7 +17,7 @@ function isContain(arr1,arr2){
 
 # cookie
 
-#### 原生JavaScript的cookie操作
+#### 原生javascript的cookie操作
 [🔙](https://github.com/Victor151222/FE_Snippets/blob/master/README.md#cookie)
 
 > 来自《JavaScript高级程序设计》第三版，Page 631。
